@@ -3,8 +3,12 @@
 
 UI 파트
 -
-> - ### UI 디자인 개선 제안 문서 (구성도 모음) ###
-![Git Design Image_0](https://github.com/user-attachments/assets/437d13d8-e65f-4649-8378-daac05a3c93b)
+> - ### 결과 화면 UI ###
+> ![결과화면 문서](https://github.com/user-attachments/assets/a7256efe-dc5e-45a2-a5be-a67c3bd1a442)
+> - 문서 분류 : UI 개발 문서
+> - 담당 업무 : 결과 화면 UI의 전체 디자인 컨셉과 UI 구성도 기획, 타 파트 담당자들과의 커뮤니케이션을 통한 협업
+> - ### 최종 결과물 ###
+> ![결과화면](https://github.com/user-attachments/assets/0a0d7b51-e27b-4b74-969d-5c222558bc79)
 
 > - ### 연구소 UI / UX의 개선 문서 (전체 문서 중 일부 발췌) ###
 ![LAB 개선 제안서](https://github.com/user-attachments/assets/7f60a668-0fc2-4775-a175-1741921467c8)
