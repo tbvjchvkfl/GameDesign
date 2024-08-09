@@ -1,5 +1,5 @@
 # GameDesign
-게임 기획자로 근무하며 작업했던 것들을 정리한 글입니다.
+게임 기획자로 근무하며 작업했던 것들을 간단하게 정리한 글입니다.
 
 UI 파트
 -
@@ -26,3 +26,11 @@ NPC 파트
 ![ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/91e9254d-a334-468c-9e08-5049fcb04f1a)</br>
 ※ 위 작업은 문서 작업 없이 직접 프로토타입을 만들어 팀원들과 소통하고 테스트하고 컨펌 받는 방식으로 업무를 진행했었습니다.
 
+PC파트
+-
+>- ### 브랜든 히트 데몰리션 샷 ###
+> ![데몰리션](https://github.com/user-attachments/assets/a9908f91-f695-4830-9ff5-57d7eb9bc952)
+>- 문서 분류 : 개발 문서
+>- 담당 업무 : 브랜든 히트 데몰리션 샷 애니메이션 기획, 이펙트 요청, 초기 데미지 및 스킬 정보 설정
+>- ### 최종 결과물 ###
+>  ![ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/f5bb7675-4cde-4d6b-b3f3-451010ef9102)
